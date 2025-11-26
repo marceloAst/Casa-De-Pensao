@@ -28,6 +28,9 @@ body {
   position: relative;
 }
 
+.prof{
+    color: #f4e4d4;
+}
 .principal::before {
   content: "";
   position: absolute;
